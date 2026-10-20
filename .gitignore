@@ -1,0 +1,15 @@
+# Publish only the reusable skill and its introduction.
+*
+!/.gitignore
+!/README.md
+!/xianyu/
+/xianyu/*
+!/xianyu/SKILL.md
+!/xianyu/agents/
+/xianyu/agents/*
+!/xianyu/agents/openai.yaml
+!/xianyu/references/
+/xianyu/references/*
+!/xianyu/references/access.md
+!/xianyu/references/categories.md
+!/xianyu/references/comparison.md

@@ -1,0 +1,4 @@
+interface:
+  display_name: "闲鱼 skill"
+  short_description: "主动补齐消费需求，核实具体门店、规格与总价后比较闲鱼购买方案"
+  default_prompt: "使用 $xianyu，我想吃奥尔良烤翅，帮我找到合适又划算的购买方案。"
